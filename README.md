@@ -1,5 +1,7 @@
 # Health Insurance Cost Estimator (ML-Powered)
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-ff4b4b?logo=streamlit)](https://premium-estimator.streamlit.app/)
+
 A sleek, machine-learning–based web application that predicts annual health insurance premiums using user health, lifestyle, and demographic inputs.
 
 The UI is built using Streamlit with a modern dark theme and a clean insurance dashboard-style layout.
